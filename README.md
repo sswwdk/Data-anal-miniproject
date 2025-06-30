@@ -15,6 +15,7 @@
 ## 데이터 출처
 
 출처:
+서울 열린데이터 광장
 - 서울시 지하철호선별 역별 승하차 인원 정보 [https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do#]
 - 서울교통공사_지하역사 공기질 측정 정보 [https://data.seoul.go.kr/dataList/OA-2732/F/1/datasetView.do#]
 
