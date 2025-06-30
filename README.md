@@ -41,7 +41,6 @@
 - **Python 3.12.9**
 - **Pandas, NumPy**
 - **Matplotlib, Seaborn (시각화)**
-- **Statsmodels, Scikit-learn (회귀 및 통계 분석)**
 
 ## 분석 목표
 
